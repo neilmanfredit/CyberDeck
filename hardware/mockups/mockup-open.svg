@@ -1,0 +1,37 @@
+<svg width="100%" viewBox="0 0 680 470" role="img" xmlns="http://www.w3.org/2000/svg"><title>CyberDeck open clamshell mockup</title><desc>Front view of the open cyberdeck: lid with two IPS displays, compact keyboard, embedded T-Embed security module, and front-edge ports.</desc>
+<rect x="10" y="10" width="660" height="450" rx="18" fill="#0d1b3e"/>
+<rect x="140" y="38" width="400" height="152" rx="10" fill="#2b2f36" stroke="#3c414a" stroke-width="1"/>
+<rect x="156" y="52" width="180" height="124" rx="4" fill="#061019" stroke="#12303a" stroke-width="1"/>
+<rect x="344" y="52" width="180" height="124" rx="4" fill="#061019" stroke="#12303a" stroke-width="1"/>
+<rect x="166" y="62" width="120" height="7" rx="2" fill="#22d3ee" opacity="0.85"/>
+<rect x="166" y="76" width="150" height="5" rx="2" fill="#22d3ee" opacity="0.4"/>
+<rect x="166" y="88" width="96" height="5" rx="2" fill="#22d3ee" opacity="0.4"/>
+<rect x="166" y="100" width="134" height="5" rx="2" fill="#22d3ee" opacity="0.28"/>
+<rect x="166" y="112" width="80" height="5" rx="2" fill="#22d3ee" opacity="0.28"/>
+<rect x="166" y="150" width="60" height="7" rx="2" fill="#22d3ee" opacity="0.7"/>
+<rect x="354" y="62" width="80" height="46" rx="3" fill="#0a2230" stroke="#123c48" stroke-width="1"/>
+<rect x="442" y="62" width="72" height="46" rx="3" fill="#0a2230" stroke="#123c48" stroke-width="1"/>
+<rect x="354" y="118" width="160" height="5" rx="2" fill="#22d3ee" opacity="0.4"/>
+<rect x="354" y="130" width="120" height="5" rx="2" fill="#22d3ee" opacity="0.28"/>
+<rect x="354" y="142" width="150" height="5" rx="2" fill="#22d3ee" opacity="0.28"/>
+<rect x="354" y="154" width="90" height="5" rx="2" fill="#22d3ee" opacity="0.2"/>
+<rect x="150" y="192" width="380" height="11" rx="4" fill="#171a1f"/>
+<polygon points="150,203 530,203 572,360 108,360" fill="#24282e" stroke="#3c414a" stroke-width="1"/>
+<rect x="150" y="221" width="300" height="106" rx="7" fill="#16191e" stroke="#33383f" stroke-width="1"/>
+<g fill="#2d323a">
+<rect x="160" y="230" width="26" height="18" rx="3"/><rect x="192" y="230" width="26" height="18" rx="3"/><rect x="224" y="230" width="26" height="18" rx="3"/><rect x="256" y="230" width="26" height="18" rx="3"/><rect x="288" y="230" width="26" height="18" rx="3"/><rect x="320" y="230" width="26" height="18" rx="3"/><rect x="352" y="230" width="26" height="18" rx="3"/><rect x="384" y="230" width="26" height="18" rx="3"/>
+<rect x="160" y="254" width="26" height="18" rx="3"/><rect x="192" y="254" width="26" height="18" rx="3"/><rect x="224" y="254" width="26" height="18" rx="3"/><rect x="256" y="254" width="26" height="18" rx="3"/><rect x="288" y="254" width="26" height="18" rx="3"/><rect x="320" y="254" width="26" height="18" rx="3"/><rect x="352" y="254" width="26" height="18" rx="3"/><rect x="384" y="254" width="26" height="18" rx="3"/>
+<rect x="160" y="278" width="26" height="18" rx="3"/><rect x="192" y="278" width="26" height="18" rx="3"/><rect x="224" y="278" width="26" height="18" rx="3"/><rect x="256" y="278" width="26" height="18" rx="3"/><rect x="288" y="278" width="26" height="18" rx="3"/><rect x="320" y="278" width="26" height="18" rx="3"/><rect x="352" y="278" width="26" height="18" rx="3"/><rect x="384" y="278" width="26" height="18" rx="3"/>
+<rect x="214" y="302" width="150" height="16" rx="3"/>
+</g>
+<rect x="466" y="221" width="66" height="106" rx="7" fill="#101418" stroke="#33383f" stroke-width="1"/>
+<rect x="474" y="230" width="50" height="40" rx="3" fill="#04212b" stroke="#123c48" stroke-width="1"/>
+<text x="499" y="254" text-anchor="middle" font-family="monospace" font-size="10" fill="#22d3ee">HAT</text>
+<circle cx="499" cy="296" r="12" fill="#1b1f25" stroke="#3c414a" stroke-width="1"/>
+<circle cx="499" cy="296" r="4" fill="#22d3ee" opacity="0.7"/>
+<line x1="520" y1="228" x2="592" y2="150" stroke="#4a4f57" stroke-width="4" stroke-linecap="round"/>
+<circle cx="592" cy="150" r="5" fill="#22d3ee" opacity="0.6"/>
+<g fill="#12151a" stroke="#3c414a" stroke-width="1">
+<rect x="250" y="346" width="30" height="9" rx="4"/><rect x="292" y="346" width="22" height="9" rx="2"/><rect x="324" y="346" width="22" height="9" rx="2"/><rect x="356" y="346" width="34" height="9" rx="2"/></g>
+<text x="340" y="438" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7fd8e8">Dual 5" IPS displays &#183; 60% keyboard &#183; T-Embed CC1101 module &#183; USB-C PD</text>
+</svg>

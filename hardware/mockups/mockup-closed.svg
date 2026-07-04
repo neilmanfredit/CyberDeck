@@ -1,0 +1,22 @@
+<svg width="100%" viewBox="0 0 680 360" role="img" xmlns="http://www.w3.org/2000/svg"><title>CyberDeck closed travel mockup</title><desc>Side profile of the folded cyberdeck showing the closed slab, front-edge ports, USB-C charge input, and approximate travel dimensions.</desc>
+<rect x="10" y="10" width="660" height="340" rx="18" fill="#0d1b3e"/>
+<rect x="150" y="110" width="380" height="120" rx="12" fill="#2b2f36" stroke="#3c414a" stroke-width="1"/>
+<line x1="150" y1="170" x2="530" y2="170" stroke="#1f232a" stroke-width="1.5"/>
+<rect x="168" y="140" width="52" height="20" rx="4" fill="#101418" stroke="#33383f" stroke-width="1"/>
+<circle cx="182" cy="150" r="4" fill="#22d3ee" opacity="0.55"/>
+<text x="205" y="154" text-anchor="middle" font-family="monospace" font-size="8" fill="#5f6b72">HAT</text>
+<g fill="#12151a" stroke="#3c414a" stroke-width="1">
+<rect x="150" y="184" width="10" height="30" rx="4"/>
+<rect x="150" y="120" width="10" height="30" rx="4"/></g>
+<rect x="520" y="150" width="10" height="34" rx="4" fill="#0a2230" stroke="#22d3ee" stroke-width="1.2"/>
+<text x="560" y="172" font-family="sans-serif" font-size="12" fill="#7fd8e8">USB-C PD in</text>
+<line x1="150" y1="256" x2="530" y2="256" stroke="#4a5468" stroke-width="1"/>
+<line x1="150" y1="250" x2="150" y2="262" stroke="#4a5468" stroke-width="1"/>
+<line x1="530" y1="250" x2="530" y2="262" stroke="#4a5468" stroke-width="1"/>
+<text x="340" y="278" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#c9d4e5">approx. 260 mm wide</text>
+<line x1="560" y1="110" x2="560" y2="230" stroke="#4a5468" stroke-width="1"/>
+<line x1="554" y1="110" x2="566" y2="110" stroke="#4a5468" stroke-width="1"/>
+<line x1="554" y1="230" x2="566" y2="230" stroke="#4a5468" stroke-width="1"/>
+<text x="588" y="174" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#c9d4e5">~50 mm</text>
+<text x="340" y="315" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7fd8e8">Folded slab &#183; antenna stowed flat &#183; ports and charge on front edge</text>
+</svg>
