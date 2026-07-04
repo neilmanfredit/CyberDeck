@@ -1,0 +1,14 @@
+# OpenSCAD
+*.stl
+*.3mf
+*.csg
+!hardware/case/exports/.gitkeep
+
+# PlatformIO
+.pio/
+.vscode/
+firmware/esp32-security-module/.pio/
+
+# OS
+.DS_Store
+Thumbs.db
