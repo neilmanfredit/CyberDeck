@@ -4,6 +4,18 @@ Portable pentest cyberdeck. NUC-based clamshell with an embedded security module
 
 **For use only on networks and devices you own or are explicitly authorised to test.**
 
+## Concept renders
+
+Open clamshell — dual displays, compact keyboard, embedded T-Embed CC1101 module bay and front-edge ports:
+
+![Open clamshell mockup](hardware/mockups/mockup-open.png)
+
+Folded travel state — single slab, antenna stowed flat, ports and USB-C charge on the front edge:
+
+![Folded travel mockup](hardware/mockups/mockup-closed.png)
+
+Renders are illustrative, not to scale. Dimensions firm up once the panels, keyboard and T-Embed board are sourced and measured. (Source SVGs are in `hardware/mockups/`; the README uses PNGs as GitHub renders those reliably.)
+
 ## Spec summary
 
 - **Compute:** Mini NUC (Intel N97/N100 class), runs Kali natively
@@ -19,6 +31,7 @@ Portable pentest cyberdeck. NUC-based clamshell with an embedded security module
 ```
 hardware/
   case/          OpenSCAD parametric case (clamshell, hinge, bays)
+  mockups/       Concept renders of the finished build (SVG)
   schematics/    Wiring diagrams for the embedded module
 firmware/
   esp32-security-module/   PlatformIO project for the embedded module
